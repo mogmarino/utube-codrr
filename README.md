@@ -3,7 +3,7 @@
 </p>
 
 
-# Intrucciones para levantar el proyecto
+# Instrucciones para levantar el proyecto
 
 1.  Clonar el repositorio
 ```
